@@ -1,4 +1,7 @@
 # resume
+## Education
+* Sejong University / Computer Software Engineering
+
 ## Career
 [Atommerce](http://www.mindcafe.co.kr)
 * 팀원 / Develop Team (iOS)
@@ -25,7 +28,7 @@
 ## Project (Official)
 AngelCounceling
 * 설명: 원하는 상담사를 이어줘 결재후 개인 상담할 수 있는 앱
-* 기간: 2016.08 ~ (개발중)
+* 기간: 2016.09 ~ (개발중)
 * 언어: Swift(iOS)
 
 [MindCafe](https://itunes.apple.com/kr/app/maindeukape/id1071543312?mt=8)
@@ -51,4 +54,4 @@ BKL HomePage
 ## Site
 [Blog](http://www.azsha.tistory.com)
 
-[Git](http://www.github.com/azsha)
+[GitHub](http://www.github.com/azsha)
