@@ -2,23 +2,19 @@
 ## Career
 [Atommerce](http://www.mindcafe.co.kr)
 * 팀원 / Develop Team (iOS)
-* 2015/08/22 ~
+* 2015/08/25 ~
 
 [OSB Savings Bank](https://www.osb.co.kr)
 * 대리 / IT Operation Team
-* 2014/08/05 ~ 2015/08/30
+* 2014/08/25 ~ 2015/08/24
 
 [BKL](http://bkl.co.kr)
 * 주임 / IT Asset Team
-* 2011/05/18 ~ 2013/08/31
+* 2011/05/23 ~ 2013/08/13
 
 [Daum Communication](http://daum.net)
 * 인턴 / QA TFT
-* 2010/08/20 ~ 2011/01/31
-
-[AhnLab](https://www.ahnLab.com)
-* 세종대 직장체험프로그램(학점인증제) / QA Team
-* 2009.08.15 ~ 2010.02.28
+* 2010/08/24 ~ 2011/01/31
 
 ## Project (Personal)
 [3x3 Numbers](https://play.google.com/store/apps/details?id=azsha.Numbers)
@@ -49,10 +45,10 @@ MindDay
 
 BKL HomePage
 * 설명: 사내 홈페이지 제작
-* 기간:
+* 기간: 2010.11 ~ 2011.01
 * 언어: JSP, JavaScript, HTML
 
 ## Site
 [Blog](http://www.azsha.tistory.com)
 
-[Git](http://www.github/azsha)
+[Git](http://www.github.com/azsha)
