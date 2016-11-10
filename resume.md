@@ -52,6 +52,6 @@ BKL HomePage
 * 언어: JSP, JavaScript, HTML
 
 ## Site
-[Blog](http://www.azsha.tistory.com)
+[Blog](http://azsha.tistory.com)
 
 [GitHub](http://www.github.com/azsha)
