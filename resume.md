@@ -32,16 +32,19 @@ AngelCounceling
 * 언어: Swift(iOS)
 
 [MindCafe](https://itunes.apple.com/kr/app/maindeukape/id1071543312?mt=8)
+<img src="images/mindcafe1.png" width="160"/> <img src="images/mindcafe2.png" width="160"/><img src="images/mindcafe3.png" width="160"/>
 * 설명: 익명 고민 SNS / 자가 진단 앱 (Atommerce 주 서비스)
 * 기간: 2015.10 ~ 2016.01 (계속 업데이트)
 * 언어: Swift(iOS)
 
 [MindBreathing](https://itunes.apple.com/kr/app/maindeubeuliding/id1076233168?mt=8)
+<img src="images/mindbreathing1.png" width="160"/> <img src="images/mindbreathing2.png" width="160"/><img src="images/mindbreathing3.png" width="160"/>
 * 설명: 복식호흡법 가이드 앱
 * 기간: 2015.09 ~ 2015.10
 * 언어: Swift(iOS)
 
 MindDay
+<img src="images/mindcafe1.png" width="160"/> <img src="images/mindcafe2.png" width="160"/><img src="images/mindcafe3.png" width="160"/>
 * 설명: 개인 감정 일기장 앱
 * 기간: 2015.08 ~ 2015.09
 * 언어: Swift(iOS)
