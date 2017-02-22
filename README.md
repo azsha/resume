@@ -27,6 +27,8 @@
 
 ## Project (Official)
 AngelCounceling
+
+<img src="images/mindange.png" width="160"/> <img src="images/mindangel2.png" width="160"/>
 * 설명: 원하는 상담사를 이어줘 결재후 개인 상담할 수 있는 앱
 * 기간: 2016.09 ~ (개발중)
 * 언어: Swift(iOS)
