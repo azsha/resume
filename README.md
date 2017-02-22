@@ -1,4 +1,7 @@
 # resume
+### Contact
+* Email: azsha@naver.com
+
 ### Education
 * Sejong University / Computer Software Engineering
 
@@ -19,6 +22,7 @@
 * 인턴 / QA TFT
 * 2010/08/24 ~ 2011/01/31
 
+##Project
 ### Personal Project
 [3x3 Numbers](https://play.google.com/store/apps/details?id=azsha.Numbers)
 * 설명: 스도쿠 게임
@@ -59,7 +63,7 @@ BKL HomePage
 * 기간: 2010.11 ~ 2011.01
 * 언어: JSP, JavaScript, HTML
 
-### Site
+## Site
 [Blog : azsha.tistory.com](http://azsha.tistory.com)
 
 [GitHub : github.com/azsha](http://www.github.com/azsha)
