@@ -1,8 +1,8 @@
 # resume
-## Education
+### Education
 * Sejong University / Computer Software Engineering
 
-## Career
+### Career
 [Atommerce](http://www.mindcafe.co.kr)
 * 팀원 / Develop Team (iOS)
 * 2015/08/25 ~
@@ -19,13 +19,13 @@
 * 인턴 / QA TFT
 * 2010/08/24 ~ 2011/01/31
 
-## Project (Personal)
+### Personal Project
 [3x3 Numbers](https://play.google.com/store/apps/details?id=azsha.Numbers)
 * 설명: 스도쿠 게임
 * 기간: 2014.04 ~ 2014.05
 * 언어: Java(Android)
 
-## Project (Official)
+### Official Project 
 AngelCounceling
 
 <img src="images/mindangel.PNG" width="160"/> <img src="images/mindangel2.PNG" width="160"/>
@@ -59,7 +59,7 @@ BKL HomePage
 * 기간: 2010.11 ~ 2011.01
 * 언어: JSP, JavaScript, HTML
 
-## Site
-[Blog](http://azsha.tistory.com)
+### Site
+[Blog : azsha.tistory.com](http://azsha.tistory.com)
 
-[GitHub](http://www.github.com/azsha)
+[GitHub : github.com/azsha](http://www.github.com/azsha)
