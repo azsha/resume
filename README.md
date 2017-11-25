@@ -6,7 +6,7 @@
 * Sejong University / Computer Software Engineering
 
 ### Career
-[BraveCompany](http://www.bravecomapy.net)
+[BraveCompany](http://www.bravecompany.net)
 * 대리 / Develop Team (iOS)
 * 2017/04/24 ~
 
