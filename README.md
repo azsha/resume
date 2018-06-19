@@ -34,9 +34,12 @@
 
 BraveCompany 영단어 트레이닝 iOS App
 
+<img src="images/word01.png" width="160"/> <img src="images/word02.png" width="160"/> <img src="images/word03.png" width="160"/> <img src="images/word04.png" width="160"/>
+
 * 용감한 컴퍼니에서 서비스 중인 영단어 트레이닝 앱
 * 기간: 2017.04 ~
 * 언어: Swift(iOS)
+
 
 [BraveCompany 성적관리 앱 iOS App](https://itunes.apple.com/nl/app/김승봉경찰팀-성적관리앱-모두의경찰-기출-모의고사/id1272040943?mt=8)
 
@@ -44,6 +47,7 @@ BraveCompany 영단어 트레이닝 iOS App
 * 용감한 컴퍼니에서 서비스 중인 2개의 오프라인 학원의 성적 관리 수강앱
 * 기간: 2017.04 ~
 * 언어: Swift(iOS)
+
 
 [BraveCompany 학습관리 앱 iOS App](https://itunes.apple.com/us/app/가비-국어-학습관리앱-이근갑-선생님/id1335886842?mt=8)
 
@@ -60,12 +64,14 @@ AngelCounceling
 * 기간: 2016.09 ~ 2017.03.31
 * 언어: Swift(iOS)
 
+
 [MindCafe](https://itunes.apple.com/kr/app/maindeukape/id1071543312?mt=8)
 
 <img src="images/mindcafe1.png" width="160"/> <img src="images/mindcafe2.png" width="160"/> <img src="images/mindcafe3.png" width="160"/>
 * 익명 고민 SNS / 자가 진단 앱 (Atommerce 주 서비스)
 * 기간: 2015.10 ~ 2016.01 (계속 업데이트)
 * 언어: Swift(iOS)
+
 
 [MindBreathing](https://itunes.apple.com/kr/app/maindeubeuliding/id1076233168?mt=8)
 
@@ -74,12 +80,14 @@ AngelCounceling
 * 기간: 2015.09 ~ 2015.10
 * 언어: Swift(iOS)
 
+
 MindDay
 
 <img src="images/minday1.png" width="160"/> <img src="images/minday2.png" width="160"/> <img src="images/minday3.png" width="160"/>
 * 개인 감정 일기장 앱
 * 기간: 2015.08 ~ 2015.09
 * 언어: Swift(iOS)
+
 
 ### Personal Project
 3x3 Numbers
