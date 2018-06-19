@@ -27,11 +27,12 @@
 ### Official Project
 [BraveCompany 인터넷 강의 수강 iOS App](https://itunes.apple.com/kr/app/덩허접공무원영어-이박사-영어-인강/id1080363471?mt=8)
 
+<img src="images/dhj01.jpg" width="160"/> <img src="images/dhj02.jpg" width="160"/> <img src="images/dhj03.jpg" width="160"/>
 * 용감한 컴퍼니에서 서비스 중인 24개의 사이트의 인터넷 강의 수강앱
 * 기간: 2017.04 ~
 * 언어: Swift(iOS)
 
-BraveCompany 영단어 트레이닝 iOS app
+BraveCompany 영단어 트레이닝 iOS App
 
 * 용감한 컴퍼니에서 서비스 중인 영단어 트레이닝 앱
 * 기간: 2017.04 ~
@@ -39,12 +40,14 @@ BraveCompany 영단어 트레이닝 iOS app
 
 [BraveCompany 성적관리 앱 iOS App](https://itunes.apple.com/nl/app/김승봉경찰팀-성적관리앱-모두의경찰-기출-모의고사/id1272040943?mt=8)
 
+<img src="images/bong01.jpg" width="160"/> <img src="images/bong02.jpg" width="160"/> <img src="images/bong03.jpg" width="160"/>
 * 용감한 컴퍼니에서 서비스 중인 2개의 오프라인 학원의 성적 관리 수강앱
 * 기간: 2017.04 ~
 * 언어: Swift(iOS)
 
 [BraveCompany 학습관리 앱 iOS App](https://itunes.apple.com/us/app/가비-국어-학습관리앱-이근갑-선생님/id1335886842?mt=8)
 
+<img src="images/gabi01.jpg" width="160"/> <img src="images/gabi02.jpg" width="160"/> <img src="images/gabi03.jpg" width="160"/>
 * 용감한 컴퍼니에서 서비스 중인 1개의 오프라인 학원의 학습 관리 수강앱
 * 기간: 2017.04 ~
 * 언어: Swift(iOS)
