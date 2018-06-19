@@ -23,29 +23,28 @@
 * 2011/05/23 ~ 2013/08/13
 
 ## Project
-### Personal Project
-[3x3 Numbers](https://play.google.com/store/apps/details?id=azsha.Numbers)
-* 설명: 스도쿠 게임
-* 기간: 2014.04 ~ 2014.05
-* 언어: Java(Android)
 
 ### Official Project
-BraveCompany 인터넷 강의 수강 iOS App
+[BraveCompany 인터넷 강의 수강 iOS App](https://itunes.apple.com/kr/app/덩허접공무원영어-이박사-영어-인강/id1080363471?mt=8)
+
 * 용감한 컴퍼니에서 서비스 중인 24개의 사이트의 인터넷 강의 수강앱
 * 기간: 2017.04 ~
 * 언어: Swift(iOS)
 
 BraveCompany 영단어 트레이닝 iOS app
+
 * 용감한 컴퍼니에서 서비스 중인 영단어 트레이닝 앱
 * 기간: 2017.04 ~
 * 언어: Swift(iOS)
 
-BraveCompany 성적관리 앱 iOS App
+[BraveCompany 성적관리 앱 iOS App](https://itunes.apple.com/nl/app/김승봉경찰팀-성적관리앱-모두의경찰-기출-모의고사/id1272040943?mt=8)
+
 * 용감한 컴퍼니에서 서비스 중인 2개의 오프라인 학원의 성적 관리 수강앱
 * 기간: 2017.04 ~
 * 언어: Swift(iOS)
 
-BraveCompany 학습관리 앱 iOS App
+[BraveCompany 학습관리 앱 iOS App](https://itunes.apple.com/us/app/가비-국어-학습관리앱-이근갑-선생님/id1335886842?mt=8)
+
 * 용감한 컴퍼니에서 서비스 중인 1개의 오프라인 학원의 학습 관리 수강앱
 * 기간: 2017.04 ~
 * 언어: Swift(iOS)
@@ -78,6 +77,12 @@ MindDay
 * 개인 감정 일기장 앱
 * 기간: 2015.08 ~ 2015.09
 * 언어: Swift(iOS)
+
+### Personal Project
+3x3 Numbers
+* 설명: 스도쿠 게임
+* 기간: 2014.04 ~ 2014.05
+* 언어: Java(Android)
 
 ## Site
 [Blog : azsha.tistory.com](http://azsha.tistory.com)
