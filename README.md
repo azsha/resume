@@ -88,13 +88,6 @@ MindDay
 * 기간: 2015.08 ~ 2015.09
 * 언어: Swift(iOS)
 
-
-### Personal Project
-3x3 Numbers
-* 설명: 스도쿠 게임
-* 기간: 2014.04 ~ 2014.05
-* 언어: Java(Android)
-
 ## Site
 [Blog : azsha.tistory.com](http://azsha.tistory.com)
 
