@@ -28,8 +28,8 @@
 * 2011/05 ~ 2013/08
 
 ## Project
-[Hi Health Challenge iOS App] (https://itunes.apple.com/kr/app/%ED%95%98%EC%9D%B4%ED%97%AC%EC%8A%A4%EC%B1%8C%EB%A6%B0%EC%A7%80/id1451165560?mt=8)
-<img src="images/hi000.jpg" width="160"/> <img src="images/hi001.jpg" width="160"/> <img src="images/hi002.jpg" width="160"/>
+[Hi Health Challenge iOS App](https://itunes.apple.com/kr/app/%ED%95%98%EC%9D%B4%ED%97%AC%EC%8A%A4%EC%B1%8C%EB%A6%B0%EC%A7%80/id1451165560?mt=8)
+<img src="images/hi001.jpg" width="160"/> <img src="images/hi002.jpg" width="160"/> <img src="images/hi003.jpg" width="160"/>
 * 현대해상 하이헬스첼린지 건강정보 앱
 * 기간: 2018.10 ~ 2019.03
 * 언어: Swift(iOS)
