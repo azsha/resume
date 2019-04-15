@@ -1,35 +1,44 @@
 # resume
-### Contact
-* Email: azsha@naver.com
+### Basic
+* Name: Jonghyun Shin
+* Email: azshaa@gmail.com
 
 ### Education
 * Sejong University / Computer Software Engineering
 
 ### Career
+[Huray Positive](http://www.huray.net)
+* 팀원 / Develop Team (iOS)
+* 2018/08 ~
+
 [BraveCompany](http://www.bravecompany.net)
 * 대리 / Develop Team (iOS)
-* 2017/04/24 ~
+* 2017/04 ~ 2018/06
 
 [Atommerce](http://www.mindcafe.co.kr)
 * 맴버 / Develop Team (iOS)
-* 2015/08/25 ~ 2017.03.31
+* 2015/08 ~ 2017/03
 
 [OSB Savings Bank](https://www.osb.co.kr)
 * 대리 / IT Operation Team
-* 2014/08/25 ~ 2015/08/24
+* 2014/08 ~ 2015/08
 
 [BKL](http://bkl.co.kr)
 * 주임 / IT Asset Team
-* 2011/05/23 ~ 2013/08/13
+* 2011/05 ~ 2013/08
 
 ## Project
+[Hi Health Challenge iOS App] (https://itunes.apple.com/kr/app/%ED%95%98%EC%9D%B4%ED%97%AC%EC%8A%A4%EC%B1%8C%EB%A6%B0%EC%A7%80/id1451165560?mt=8)
+<img src="images/hi000.jpg" width="160"/> <img src="images/hi001.jpg" width="160"/> <img src="images/hi002.jpg" width="160"/>
+* 현대해상 하이헬스첼린지 건강정보 앱
+* 기간: 2018.10 ~ 2019.03
+* 언어: Swift(iOS)
 
-### Official Project
 [BraveCompany 인터넷 강의 수강 iOS App](https://itunes.apple.com/kr/app/덩허접공무원영어-이박사-영어-인강/id1080363471?mt=8)
 
 <img src="images/dhj01.jpg" width="160"/> <img src="images/dhj02.jpg" width="160"/> <img src="images/dhj03.jpg" width="160"/>
 * 용감한 컴퍼니에서 서비스 중인 24개의 사이트의 인터넷 강의 수강앱
-* 기간: 2017.04 ~
+* 기간: 2017.04 ~ 2018.06
 * 언어: Swift(iOS)
 
 BraveCompany 영단어 트레이닝 iOS App
