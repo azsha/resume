@@ -28,11 +28,18 @@
 * 2011/05 ~ 2013/08
 
 ## Project
-[Hi Health Challenge iOS App](https://itunes.apple.com/kr/app/%ED%95%98%EC%9D%B4%ED%97%AC%EC%8A%A4%EC%B1%8C%EB%A6%B0%EC%A7%80/id1451165560?mt=8)
+[하이디](https://apps.apple.com/mx/app/하이디/id1485663548?ign-mpt=uo%3D2)
+
+<img src="images/hid001.jpg" width="160"/> <img src="images/hid002.jpg" width="160"/> <img src="images/hid003.jpg" width="160"/>
+* 투석 환자를 위한 건강관리 앱
+* 기간: 2019.08 ~ 2019.11
+* 언어: Swift(iOS)
+
+[하이헬스챌린지](https://itunes.apple.com/kr/app/%ED%95%98%EC%9D%B4%ED%97%AC%EC%8A%A4%EC%B1%8C%EB%A6%B0%EC%A7%80/id1451165560?mt=8)
 
 <img src="images/hi001.jpg" width="160"/> <img src="images/hi002.jpg" width="160"/> <img src="images/hi003.jpg" width="160"/>
 * 현대해상 하이헬스첼린지 건강정보 앱
-* 기간: 2018.10 ~ 2019.03
+* 기간: 2018.10 ~ 2019.03 / 2010.03 ~ 2010.08 (1차 고도화)
 * 언어: Swift(iOS)
 
 [BraveCompany 인터넷 강의 수강 iOS App](https://itunes.apple.com/kr/app/덩허접공무원영어-이박사-영어-인강/id1080363471?mt=8)
