@@ -30,7 +30,7 @@
 ## Project
 [하이디](https://apps.apple.com/mx/app/하이디/id1485663548?ign-mpt=uo%3D2)
 
-<img src="images/hid001.jpg" width="160"/> <img src="images/hid002.jpg" width="160"/> <img src="images/hid003.jpg" width="160"/>
+<img src="images/hid001.png" width="160"/> <img src="images/hid002.png" width="160"/> <img src="images/hid003.png" width="160"/>
 * 투석 환자를 위한 건강관리 앱
 * 기간: 2019.08 ~ 2019.11
 * 언어: Swift(iOS)
